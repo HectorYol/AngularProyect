@@ -13,3 +13,4 @@ const db = new Sequelize('PROYECTOHONDA', 'sa', '280919', {
 });
 
 export default db;
+            
